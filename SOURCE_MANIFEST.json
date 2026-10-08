@@ -1,0 +1,822 @@
+[
+  {
+    "path": "homework/hw-01/reports/IC_HW1_402101339.PDF",
+    "source": "HW1/402101339_Batani.zip::IC_HW1_402101339.PDF",
+    "sha256": "c343a1cc57bd9307fd5fb7a25e2f74f4b27aab8fd18bf4018d66c25719cc6268"
+  },
+  {
+    "path": "homework/hw-01/reports/IC_HW1_402101339_matalb.pdf",
+    "source": "HW1/402101339_Batani.zip::IC_HW1_402101339_matalb.pdf",
+    "sha256": "6829f93c8ce1f7e8ec3c1f1f04f41298654545873b0bc2c3e35ea61cc3bb4eaa"
+  },
+  {
+    "path": "homework/hw-01/source/Q10/Q10.slx",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q10/Q10.slx",
+    "sha256": "6444bb65e3078110b37e3c6b2eb2a3c385e38b4967c77017c4a29bef30fd2079"
+  },
+  {
+    "path": "homework/hw-01/source/Q3/Q3_e.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q3/Q3_e.jpg",
+    "sha256": "3b6a0dea99fca1cd8dba9779b9e2bcc17d12c8079e8311b982bc424b375bf15c"
+  },
+  {
+    "path": "homework/hw-01/source/Q3/Q3_e.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q3/Q3_e.m",
+    "sha256": "2b54a7143dcb5830880b3f1e08f3b83195cdaa819ec3f43226852a3dbba89f07"
+  },
+  {
+    "path": "homework/hw-01/source/Q4/Q4.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q4/Q4.jpg",
+    "sha256": "e03944be63ffb3fec028fa8b9b9d17513ff505f10ce309fe94d4a3e0c0a2a49c"
+  },
+  {
+    "path": "homework/hw-01/source/Q4/Q4.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q4/Q4.m",
+    "sha256": "cb5038a950cd3cdfa64d08bba207d3b2eb29f7c0fe742be5bc1c4957ad5c867f"
+  },
+  {
+    "path": "homework/hw-01/source/Q5/a/untitled1.slx",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q5/a/untitled1.slx",
+    "sha256": "20c2a6fd174da0116cf97ae556de4f2370f868e6889b79bc71c8e7402c36da3f"
+  },
+  {
+    "path": "homework/hw-01/source/Q5/b/my_system.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q5/b/my_system.m",
+    "sha256": "6a6bdbf8d694a3ef44c8b14cea121a08001eed6887a631746000ac7ae458518f"
+  },
+  {
+    "path": "homework/hw-01/source/Q5/b/run_codegen.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q5/b/run_codegen.m",
+    "sha256": "ebe6a145875ee341f432649886ee2532e1e2b5f339ace6fa526cedb453b5091b"
+  },
+  {
+    "path": "homework/hw-01/source/Q6/a/untitled2.mlx",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q6/a/untitled2.mlx",
+    "sha256": "76e14da52a96ce8e68c4026ed22e993cf2e4edc6b37850aad740e0ae330dbe0e"
+  },
+  {
+    "path": "homework/hw-01/source/Q6/b/solve_opt.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q6/b/solve_opt.m",
+    "sha256": "7cef1ed9c2148a23379037148a5f234c2f334a2cec6fbaee38adbe67f161c49e"
+  },
+  {
+    "path": "homework/hw-01/source/Q7/Q7.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q7/Q7.jpg",
+    "sha256": "444c9e83a23efad09635cdcf1f3b19b692ff79dab27556e31519f631371cc860"
+  },
+  {
+    "path": "homework/hw-01/source/Q7/Q7.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q7/Q7.m",
+    "sha256": "ece0c02f8af9a286fbbcd82992ed05e36abc79b86dba40d650bc9bd0feccd0f5"
+  },
+  {
+    "path": "homework/hw-01/source/Q8/Q8.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q8/Q8.jpg",
+    "sha256": "035223e6355df527eacd24e99b683904c50af1e279ecd20612856d1a672347c4"
+  },
+  {
+    "path": "homework/hw-01/source/Q8/Q8.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q8/Q8.m",
+    "sha256": "88371a2972ba95e26a1cfb0255cb4ed416a0e42d311f391e904a1ad9323b43b1"
+  },
+  {
+    "path": "homework/hw-01/source/Q9/Q9.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q9/Q9.jpg",
+    "sha256": "c5f174c2ec1dd7209f325c7245cfebd4e41982e2c67f9f3edf69ca19498d241f"
+  },
+  {
+    "path": "homework/hw-01/source/Q9/Q9.m",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q9/Q9.m",
+    "sha256": "84314592b94b44960dd89883146624c99a7a33c9a4b8c1b69a64520de34afbcf"
+  },
+  {
+    "path": "homework/hw-01/source/Q9/Q9_b.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q9/Q9_b.jpg",
+    "sha256": "09814d50205237261f8c198e7871638fbdc19586594cc428b3b75727c587d2bb"
+  },
+  {
+    "path": "homework/hw-01/source/Q9/Q9_b_k.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q9/Q9_b_k.jpg",
+    "sha256": "4a78cb579bbdb237219d057857e87600f0871fb76212b227ec3f7ab948968c1d"
+  },
+  {
+    "path": "homework/hw-01/source/Q9/Q9_c.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q9/Q9_c.jpg",
+    "sha256": "6f5ff4e6e0f4486bd6918b0aefa9152b981e144a535bc29eb6bb2032e0c09abe"
+  },
+  {
+    "path": "homework/hw-01/source/Q9/Q9_c_k.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q9/Q9_c_k.jpg",
+    "sha256": "8b32048b23686c9c20128abe0f17a1d5c9675671fb03661e36ded79368a7b23f"
+  },
+  {
+    "path": "homework/hw-01/source/Q9/Q9_K.jpg",
+    "source": "HW1/402101339_Batani.zip::SimualtionFiles/Q9/Q9_K.jpg",
+    "sha256": "346214b8112cd710efa1a66205b3a97c6f88d5a58353b0dc060405e93e3602eb"
+  },
+  {
+    "path": "homework/hw-01/assignment.pdf",
+    "source": "HW1\\Assignment 1 (8).pdf",
+    "sha256": "9e4ad264a22a1642ec9e91bfda32f0284346c66916fa6e703fbeda3290968c06"
+  },
+  {
+    "path": "homework/hw-02/reports/HW2_402101339_Batani.pdf",
+    "source": "HW2\\HW2_402101339_Batani.pdf",
+    "sha256": "74ce215b2a0f62e35d64d7e4cc43ed662117a026cf63ff52da04f87c75d70208"
+  },
+  {
+    "path": "homework/hw-02/assignment-data/GrowthData1.csv",
+    "source": "HW2\\Problemdata\\GrowthData1.csv",
+    "sha256": "7b4277211186eef74fd00cca18e3ea6a9e6d24173b71cd4e6556941caa0d84ee"
+  },
+  {
+    "path": "homework/hw-02/assignment-data/GrowthData2.csv",
+    "source": "HW2\\Problemdata\\GrowthData2.csv",
+    "sha256": "2be2139eb6da4ee08b115c46591752320aa39c28d49698952f14ecbf48e15181"
+  },
+  {
+    "path": "homework/hw-02/assignment-data/GrowthData3.csv",
+    "source": "HW2\\Problemdata\\GrowthData3.csv",
+    "sha256": "4e94bcd5c2fd26424b33d50ad6d8f18837c43ce23ce2e2f4991c200c3c53b9fb"
+  },
+  {
+    "path": "homework/hw-02/assignment-data/GrowthData4.csv",
+    "source": "HW2\\Problemdata\\GrowthData4.csv",
+    "sha256": "bae1cdcd820b7da96426ee8d7066f847940d6146f941b121f359572241a6a19c"
+  },
+  {
+    "path": "homework/hw-02/assignment-data/HW2 (11).pdf",
+    "source": "HW2\\Problemdata\\HW2 (11).pdf",
+    "sha256": "aa1c15066e0f455e10f224eb82321b6a5cca953b9c4da1ffe57812bc3ebe4fb5"
+  },
+  {
+    "path": "homework/hw-02/assignment-data/Ident.mat",
+    "source": "HW2\\Problemdata\\Ident.mat",
+    "sha256": "b6dc32bf9aaf70403b79a9ec336fd828aca9a2dce4638f86590a50b772ebedbc"
+  },
+  {
+    "path": "homework/hw-02/figures/Q1/untitled.jpg",
+    "source": "HW2\\SimulationFigures\\Q1\\untitled.jpg",
+    "sha256": "c6191e4c2a3548b8db99e69985b771c7af204a247f49584af793328a8d866359"
+  },
+  {
+    "path": "homework/hw-02/figures/Q10/Q10_Bertalanffy.png",
+    "source": "HW2\\SimulationFigures\\Q10\\Q10_Bertalanffy.png",
+    "sha256": "c35930ba922f618044a1852e782211db4a2c6bc0786a85668e43a54a97cee633"
+  },
+  {
+    "path": "homework/hw-02/figures/Q10/Q10_Gompertz.png",
+    "source": "HW2\\SimulationFigures\\Q10\\Q10_Gompertz.png",
+    "sha256": "a0c3f20610aaaabd2d8244ba8f45994ba943635c95c72352720748b9f5cf6f20"
+  },
+  {
+    "path": "homework/hw-02/figures/Q10/Q10_Logistic.png",
+    "source": "HW2\\SimulationFigures\\Q10\\Q10_Logistic.png",
+    "sha256": "195637b050cf0a33a829a365b7fef6db1480ee6f075d91bce5c46519076d6a0f"
+  },
+  {
+    "path": "homework/hw-02/figures/Q10/Q10_Richards.png",
+    "source": "HW2\\SimulationFigures\\Q10\\Q10_Richards.png",
+    "sha256": "ba6d27af852eba3759af17848d7c199309771f2af347bd0d4ca959802f85ef86"
+  },
+  {
+    "path": "homework/hw-02/figures/Q11/Q11_g.fig",
+    "source": "HW2\\SimulationFigures\\Q11\\Q11_g.fig",
+    "sha256": "6a3d1266579177c23451bf0397a26299cedfa803247daaa8007e81058c192720"
+  },
+  {
+    "path": "homework/hw-02/figures/Q11/Q11_g.jpg",
+    "source": "HW2\\SimulationFigures\\Q11\\Q11_g.jpg",
+    "sha256": "c0a945f05d7eaeeadd3cd9a6cb1c1a73e0038e851b03bd5f6de51ed976e2ce81"
+  },
+  {
+    "path": "homework/hw-02/figures/Q11/Q11_i.jpg",
+    "source": "HW2\\SimulationFigures\\Q11\\Q11_i.jpg",
+    "sha256": "c82d8f354477f4ca777876701070a839c8eb9aed50b3697415eaa635a760c0c7"
+  },
+  {
+    "path": "homework/hw-02/figures/Q11/Q11_i_disturbance.jpg",
+    "source": "HW2\\SimulationFigures\\Q11\\Q11_i_disturbance.jpg",
+    "sha256": "fd1e463813550515b41c580f2c1bbc67c9e905e5e2cd6649afd8f77eae9e94cf"
+  },
+  {
+    "path": "homework/hw-02/figures/Q2/Q2.jpg",
+    "source": "HW2\\SimulationFigures\\Q2\\Q2.jpg",
+    "sha256": "c5c029e3752164fd846ec710c3981fc10cb84b004ebdcba2be4064b536d302df"
+  },
+  {
+    "path": "homework/hw-02/figures/Q3/Figure_1.png",
+    "source": "HW2\\SimulationFigures\\Q3\\Figure_1.png",
+    "sha256": "3addd76fddd6d115310d6019fcd92b1d142328b8af9af3cbf716dac32e9451f3"
+  },
+  {
+    "path": "homework/hw-02/figures/Q3/Figure_2.png",
+    "source": "HW2\\SimulationFigures\\Q3\\Figure_2.png",
+    "sha256": "af9557b3662bf0abdd322a8746775ae76293e4915edbed2271430fa69345f0a5"
+  },
+  {
+    "path": "homework/hw-02/figures/Q3/Figure_3.png",
+    "source": "HW2\\SimulationFigures\\Q3\\Figure_3.png",
+    "sha256": "57ec40c466d5341018d81cee84551747a3f73def4f4d86f8926d8294ce335a53"
+  },
+  {
+    "path": "homework/hw-02/figures/Q3/Figure_4.png",
+    "source": "HW2\\SimulationFigures\\Q3\\Figure_4.png",
+    "sha256": "606b6b612016fd38b4b3639f0d72b64b2841cec6cdf70d12085804e87d553b43"
+  },
+  {
+    "path": "homework/hw-02/figures/Q4/Q4_a.jpg",
+    "source": "HW2\\SimulationFigures\\Q4\\Q4_a.jpg",
+    "sha256": "0ae38f5fc6f632f8639099daaa3e70a9060b100dffe91b192c0efbd66a2562ce"
+  },
+  {
+    "path": "homework/hw-02/figures/Q4/Q4_b.jpg",
+    "source": "HW2\\SimulationFigures\\Q4\\Q4_b.jpg",
+    "sha256": "b22021bc4c453620d510e0edde9508e7b2ec3fcdf7cf2f7d94b2f44418b1ef5d"
+  },
+  {
+    "path": "homework/hw-02/figures/Q6/Q6_f.jpg",
+    "source": "HW2\\SimulationFigures\\Q6\\Q6_f.jpg",
+    "sha256": "f44cb4d04a83691346f1161c13e6eedd20cbaef098496fc45e8131672b12839a"
+  },
+  {
+    "path": "homework/hw-02/figures/Q6/Q6_g_error.jpg",
+    "source": "HW2\\SimulationFigures\\Q6\\Q6_g_error.jpg",
+    "sha256": "76bccbc7b19d8a74a01be36f2be15178e8d913af4755e69d9e4bd3d2058918b6"
+  },
+  {
+    "path": "homework/hw-02/figures/Q6/Q6_g_ramp.jpg",
+    "source": "HW2\\SimulationFigures\\Q6\\Q6_g_ramp.jpg",
+    "sha256": "d4f6360a9da5bb1e0151d6650a5d7d95376f31f3c4977e02731b1af5eca3d101"
+  },
+  {
+    "path": "homework/hw-02/figures/Q6/Q6_h_error.jpg",
+    "source": "HW2\\SimulationFigures\\Q6\\Q6_h_error.jpg",
+    "sha256": "6b2c0f235dc3c8b716da3cab1d2e4e85f6342f5238fd3a836e8b5d8f646559e8"
+  },
+  {
+    "path": "homework/hw-02/figures/Q6/Q6_h_ramp.jpg",
+    "source": "HW2\\SimulationFigures\\Q6\\Q6_h_ramp.jpg",
+    "sha256": "3781d912d2d3158e0158066ae4ab2775ad1add546d5920896d7bb95e4a431722"
+  },
+  {
+    "path": "homework/hw-02/figures/Q6/Q6_i_ramp.jpg",
+    "source": "HW2\\SimulationFigures\\Q6\\Q6_i_ramp.jpg",
+    "sha256": "2d83850bbe7407cbabf681226e6131187daa2da0bc429d0fbb1f88c395e850b3"
+  },
+  {
+    "path": "homework/hw-02/figures/Q7/Q7_a.jpg",
+    "source": "HW2\\SimulationFigures\\Q7\\Q7_a.jpg",
+    "sha256": "ed47ff1b649f3be4ebb8d2c474d4fd1bbcdc2a318f45abdfaf3c06deaab05e56"
+  },
+  {
+    "path": "homework/hw-02/figures/Q7/Q7_b.jpg",
+    "source": "HW2\\SimulationFigures\\Q7\\Q7_b.jpg",
+    "sha256": "3a318091766b4031575840f17da37aef8d6580905483ccf7c3baedc162f4971f"
+  },
+  {
+    "path": "homework/hw-02/figures/Q7/Q7_b2.jpg",
+    "source": "HW2\\SimulationFigures\\Q7\\Q7_b2.jpg",
+    "sha256": "e3ce824a759b988cc545308969cb2d0c6936b55ef30ff3d44124cf733e9be514"
+  },
+  {
+    "path": "homework/hw-02/figures/Q7/Q7_c.jpg",
+    "source": "HW2\\SimulationFigures\\Q7\\Q7_c.jpg",
+    "sha256": "76e4b5b0c41bd59db36af88808a66c2d47098855f9a5fbe6856cc7da55f00a10"
+  },
+  {
+    "path": "homework/hw-02/figures/Q7/Q7_d_back.png",
+    "source": "HW2\\SimulationFigures\\Q7\\Q7_d_back.png",
+    "sha256": "fba6bbf0e623f5d53cba55600cc2a1de6f5e12de400f737752287c16cae68e6a"
+  },
+  {
+    "path": "homework/hw-02/figures/Q7/Q7_d_clamp.png",
+    "source": "HW2\\SimulationFigures\\Q7\\Q7_d_clamp.png",
+    "sha256": "e75a67ec5123bf46d31ee2600a96e462e3aa5c9e0aa6f3befe7d652b9199f73d"
+  },
+  {
+    "path": "homework/hw-02/figures/Q7/Q7_d_setting.png",
+    "source": "HW2\\SimulationFigures\\Q7\\Q7_d_setting.png",
+    "sha256": "346b4dbd6397c9a255bb0f450fcce2e79970765286b3f8771cb581a0b51f8e7c"
+  },
+  {
+    "path": "homework/hw-02/figures/Q8/Q8_final_result.png",
+    "source": "HW2\\SimulationFigures\\Q8\\Q8_final_result.png",
+    "sha256": "225d82cb44290a728290aa1d0e982ccaf66885143dbeb21385582192f0a6127b"
+  },
+  {
+    "path": "homework/hw-02/figures/Q8/Q8_final_result_2.png",
+    "source": "HW2\\SimulationFigures\\Q8\\Q8_final_result_2.png",
+    "sha256": "e87ed8243fccdb1b6f8f46b0506fbb096b4984c65bd99027161f50dbde134a97"
+  },
+  {
+    "path": "homework/hw-02/figures/Q8/Q8_import.png",
+    "source": "HW2\\SimulationFigures\\Q8\\Q8_import.png",
+    "sha256": "668c03318408ddf24b435ec9a9fee757dd86a4108fcb7720ff40a06241e0ae87"
+  },
+  {
+    "path": "homework/hw-02/figures/Q8/Q8_zero_poles_for_model.png",
+    "source": "HW2\\SimulationFigures\\Q8\\Q8_zero_poles_for_model.png",
+    "sha256": "db84193424312b7cb1d151625aa48718489cfa7cff754b049f5d7b086d9d71e4"
+  },
+  {
+    "path": "homework/hw-02/figures/Q9/Q9_commond_output.png",
+    "source": "HW2\\SimulationFigures\\Q9\\Q9_commond_output.png",
+    "sha256": "5aac72076901c6f9ed8d036cfd322264c1c33f50488636b254c38550bbd05de4"
+  },
+  {
+    "path": "homework/hw-02/figures/Q9/Q9_gui.png",
+    "source": "HW2\\SimulationFigures\\Q9\\Q9_gui.png",
+    "sha256": "216e70ee0fdc54918d6062895e8a010e3a9656bc6f85579ccbfe7beb093f7698"
+  },
+  {
+    "path": "homework/hw-02/figures/Q9/Q9_plot.jpg",
+    "source": "HW2\\SimulationFigures\\Q9\\Q9_plot.jpg",
+    "sha256": "d05ce1e38e12b6dabfc44ea332464fba52b1d542a19a312a55e7ba2dc5e82c67"
+  },
+  {
+    "path": "homework/hw-02/source/ModelReducerSession.mat",
+    "source": "HW2\\SimulationFiles\\ModelReducerSession.mat",
+    "sha256": "dc321cc560010a9389967dc2f51ae0071a8c6359e7f248ab917e09866d2560ef"
+  },
+  {
+    "path": "homework/hw-02/source/Q1.m",
+    "source": "HW2\\SimulationFiles\\Q1.m",
+    "sha256": "e589bffa86b7e1f9024d8b2121a28eb77a537d0960e6759d8ccff5ab1fd0e71c"
+  },
+  {
+    "path": "homework/hw-02/source/Q10.sfit",
+    "source": "HW2\\SimulationFiles\\Q10.sfit",
+    "sha256": "ce8c00af69b84304865329bc71abef2578f906aadf460e7a9d4b0778774b67f0"
+  },
+  {
+    "path": "homework/hw-02/source/Q11/objectiveFunction.m",
+    "source": "HW2\\SimulationFiles\\Q11\\objectiveFunction.m",
+    "sha256": "8f588c59c901ed7844ee5a1be910e1a6d7ddc6a59543fe77448cc0d30b3ad98e"
+  },
+  {
+    "path": "homework/hw-02/source/Q11/Q11_i.m",
+    "source": "HW2\\SimulationFiles\\Q11\\Q11_i.m",
+    "sha256": "888ba633631786252d4da220fd807ab423b41ab26445c1a68b20e70b397d9410"
+  },
+  {
+    "path": "homework/hw-02/source/Q11/test.m",
+    "source": "HW2\\SimulationFiles\\Q11\\test.m",
+    "sha256": "bb66cab605777be2f240064b7bbb4c4df965ed52d557a045bb58fad1a9b40716"
+  },
+  {
+    "path": "homework/hw-02/source/Q2.m",
+    "source": "HW2\\SimulationFiles\\Q2.m",
+    "sha256": "deacb7999e49fd02cb5fdf8bf863d592591b37ea8a4f9c04f3d7ca2424f62e1e"
+  },
+  {
+    "path": "homework/hw-02/source/Q3.m",
+    "source": "HW2\\SimulationFiles\\Q3.m",
+    "sha256": "442c88ff2b06dc006931d29852882d497b3931701fc168ca362f1e9dd0b76f4f"
+  },
+  {
+    "path": "homework/hw-02/source/Q4.m",
+    "source": "HW2\\SimulationFiles\\Q4.m",
+    "sha256": "e7f2e0ac72a9efb34405a86e20eec82ffff5c51b1e04c17b7d6fda30e71dbb86"
+  },
+  {
+    "path": "homework/hw-02/source/Q6/Q6_f.m",
+    "source": "HW2\\SimulationFiles\\Q6\\Q6_f.m",
+    "sha256": "29567d30f02cf6094bdcf4aaf858201a92554732eb7735ff1e2df5dc93afbbfa"
+  },
+  {
+    "path": "homework/hw-02/source/Q6/Q6_g.m",
+    "source": "HW2\\SimulationFiles\\Q6\\Q6_g.m",
+    "sha256": "77a9cb05b995735e4426a1ef0afe336d51413e2e11408e76949871da047df7e5"
+  },
+  {
+    "path": "homework/hw-02/source/Q6/Q6_h.m",
+    "source": "HW2\\SimulationFiles\\Q6\\Q6_h.m",
+    "sha256": "4f0b5a9f135f7f205ccf2215f7556eb9ee57ac461681f7b048d879d8b478ce6d"
+  },
+  {
+    "path": "homework/hw-02/source/Q6/Q6_i.m",
+    "source": "HW2\\SimulationFiles\\Q6\\Q6_i.m",
+    "sha256": "81a63db6fcee43a25433dd2940683251ab2f5800852b52fa80915d31cba083ef"
+  },
+  {
+    "path": "homework/hw-02/source/Q7.m",
+    "source": "HW2\\SimulationFiles\\Q7.m",
+    "sha256": "96dbb389d4dea899fbbd2cda84014ddb473306356a94fede353073760c2e5dac"
+  },
+  {
+    "path": "homework/hw-02/source/Q7_d.slx",
+    "source": "HW2\\SimulationFiles\\Q7_d.slx",
+    "sha256": "77e1e01863874fdc21b573b117fb5feb5070dcc76ae6401ca9df01f0bab154d8"
+  },
+  {
+    "path": "homework/hw-02/source/Q8.sid",
+    "source": "HW2\\SimulationFiles\\Q8.sid",
+    "sha256": "a59d8cb7614a184684b418a47427cd8271aee8baa5ee186905487f4e18a21d7b"
+  },
+  {
+    "path": "homework/hw-02/source/Q_1.m",
+    "source": "HW2\\SimulationFiles\\Q_1.m",
+    "sha256": "dd7e2a7d1e4006424840a40ecbaf7244ff1a058561d285e30828d1a3bbcd9cda"
+  },
+  {
+    "path": "homework/hw-03/assignment-data/Assignment 3 (6).pdf",
+    "source": "HW3\\assigment_materials\\Assignment 3 (6).pdf",
+    "sha256": "9c80370fdf5c2c7e5fedcb284487dd4636f8c4370c36a860622c93b685e762d6"
+  },
+  {
+    "path": "homework/hw-03/assignment-data/RefData.mat",
+    "source": "HW3\\assigment_materials\\RefData.mat",
+    "sha256": "943581919b19fac19fbc60a6e41b6ce276b09c9a2eb64c988e133a7d6fcef313"
+  },
+  {
+    "path": "homework/hw-03/reports/IC_HW3_402101339.pdf",
+    "source": "HW3\\IC_HW3_402101339.pdf",
+    "sha256": "496b883f189c4874d50c87a46bfc194dda5ae80086aead26a17d4b81d79a2c3b"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_1/Fig3_ab.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_1\\Fig3_ab.jpg",
+    "sha256": "676eb1239c9aa92adda0d994e5ec954d21f2c5a6c7ba2eb1280e152a0274ccec"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_1/Fig3_cd.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_1\\Fig3_cd.jpg",
+    "sha256": "bbe4f5e45eebec07975c7ff06bb3b0dbfc8d5867783657de21e88f787312faa0"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_2/Fig4_ab.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_2\\Fig4_ab.jpg",
+    "sha256": "baf2bbe08e6d31046b15e54c9b2a685995a982ddfed115477a8976c436ca72f5"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_2/Fig4_cd.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_2\\Fig4_cd.jpg",
+    "sha256": "55137e709732e692ea2892cc36562f059bde567aec8d292221809d9654d8055e"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_2/Fig4_ef.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_2\\Fig4_ef.jpg",
+    "sha256": "40261618280a52b55c801af43ea43942ef1b15831ef76bd3cc460ecc60b04fc5"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_2/sim_mode.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_2\\sim_mode.png",
+    "sha256": "61726eb60d8c0ecea340739fcd7f7407e4b7f374f5c1009892e7869d32d5055d"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_3/Fig6_cd.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_3\\Fig6_cd.jpg",
+    "sha256": "3cc1c114976efb1905b888254b9929bb4a77a71bc6375252a64f0d617c76eac1"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_3/sim_new.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_3\\sim_new.png",
+    "sha256": "1491fbaa3d94052eb247dcebe5b6786853d0a41a06caa492b07ab94f79104e12"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_4/Fig7_ab.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_4\\Fig7_ab.jpg",
+    "sha256": "14257895eae85d5dc34eba9e510a230808336ee1357d9cdbda48c54011afc698"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_4/Fig7_cd.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_4\\Fig7_cd.jpg",
+    "sha256": "6bcbc58170cd2d1a0268a1b249e7bd10733e9288fe4e6813d1612d04fac21bcb"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_4/Fig7_ef_Tdead01.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_4\\Fig7_ef_Tdead01.jpg",
+    "sha256": "8545277fb85fe557a1e9168b71601ccd4308bef80b6cc09d115c0c33d242ad0c"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_4/Fig7_gh_sESO5.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_4\\Fig7_gh_sESO5.jpg",
+    "sha256": "f87b24b870e062794c313fb43f52d4ccc8df8e84e8a9c1941215de1213cb9873"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_4/sim_neww.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_4\\sim_neww.png",
+    "sha256": "89b212f79d292a6a3f7470f783b2d6486d24d54328d3dd645fe9ead34b9ba5ad"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_5/Structural_Uncertainty_sESO2.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_5\\Structural_Uncertainty_sESO2.png",
+    "sha256": "ec8e77de9fab51f569ee1378342a864c2335e68e526689a6bd36875e3476eb2b"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_5/Structural_Uncertainty_sESO5.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_5\\Structural_Uncertainty_sESO5.png",
+    "sha256": "48e7fa3a060181711694da7e3a4c9d5e7b23dc010ac8db2b19e41745bfd71dff"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_6/Figure9_Robustness_Sweep.fig",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_6\\Figure9_Robustness_Sweep.fig",
+    "sha256": "848155e2b72a94de7859d58f5e13bf23499efcfcc158662ecf7fa44da642abd7"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_6/Figure9_Robustness_Sweep.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_6\\Figure9_Robustness_Sweep.png",
+    "sha256": "9febf4e0fa8f1ef07bac2220c2e06a7de2bf4a04ff371eb84a42167537038c02"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_6/sim_new1.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_6\\sim_new1.png",
+    "sha256": "0abb2c10ea8997fde9d382323aacdf3f45cdef01dc67edc12a99e3225979cdb6"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_7/Fig10_DisturbanceRejection.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_7\\Fig10_DisturbanceRejection.png",
+    "sha256": "0473478c8c7891a20a6e2120d83eba6e11bf02ad8b75da0f38ec331488b4c841"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_7/Kob_Comparison.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_7\\Kob_Comparison.png",
+    "sha256": "a4de077339e307c911b9b7c1b9c785c05af4dd517892173c1f080034a3511e6f"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/a/a_7/sim_new2.png",
+    "source": "HW3\\SimulationFigures\\Q1\\a\\a_7\\sim_new2.png",
+    "sha256": "67bd7f8993d32d9ba31c30cb09d05a05f829f6e9a264a21adb286fd9a2a39a75"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_1/Fig11_ab.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_1\\Fig11_ab.jpg",
+    "sha256": "3346b8a38bc95cde599f691b41387056ada71d1c55c933bb5b99a01483a3c296"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_1/Fig11_cd.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_1\\Fig11_cd.jpg",
+    "sha256": "10bdb6506b71ad885a3f1ecc5838ae422569b3af13bf405b9bee5df16fd3ede8"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_1/Fig11_ef.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_1\\Fig11_ef.jpg",
+    "sha256": "7c1e9618539734a54682296c06eaf6816538b219aa35c5c4484b5060b04ccea8"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_2/Fig12_ab.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_2\\Fig12_ab.jpg",
+    "sha256": "e7112d0dac23b7494a514aafb9734a632f2465fa4b24d0dd4944b9c590b1f64a"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_2/Fig12_cd.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_2\\Fig12_cd.jpg",
+    "sha256": "a4937308c3825c0748d6686dab6d0a3269484c3868a7c679f9c708c730794deb"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_2/Fig12_ef.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_2\\Fig12_ef.jpg",
+    "sha256": "317a49c8ea1cbc45f1482b6675e2c8991ec66510ae307f5fbdb2ad19d168e019"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_3/Fig16_abc.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_3\\Fig16_abc.jpg",
+    "sha256": "9919950f439ae3ef11d23a9952507899db0ea03a03dbb10b8171a578b2349c04"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_3/Fig16_def.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_3\\Fig16_def.jpg",
+    "sha256": "119d14dec7ec4a2f24adbc373189c86bf51b1f5085e5bde60fa8d04cf5f11569"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_3/Fig16_ghi.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_3\\Fig16_ghi.jpg",
+    "sha256": "e0d7b48a686ed4e9792a28a037ccbc84061df9268a73b1c8f97724e4191259bb"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_4/Fig17_DisturbanceRejection.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_4\\Fig17_DisturbanceRejection.jpg",
+    "sha256": "72aa469bf270fe58e1f7f03d1e78fa9a671c4a7c6679a9f193d4460cf991a76f"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/b/b_4/Kob_Comparison_Fig17.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\b\\b_4\\Kob_Comparison_Fig17.jpg",
+    "sha256": "ebbd43f09db439fc94e12161b3951ac23c5080b87071b890ad05999d4b7224b5"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/c/c_1/Fig18_SampleTime.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\c\\c_1\\Fig18_SampleTime.jpg",
+    "sha256": "7ad2344473c2364f054cc183f55afe644dc4b465d1d01220672bdaf4a4661f0c"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/c/c_2/Fig20_ObserverPoles.jpg",
+    "source": "HW3\\SimulationFigures\\Q1\\c\\c_2\\Fig20_ObserverPoles.jpg",
+    "sha256": "8754391f0ae85c7423d1a69a66d7fcbc6900628c4b422658c8350077c77fae07"
+  },
+  {
+    "path": "homework/hw-03/figures/Q1/simulink_model.png",
+    "source": "HW3\\SimulationFigures\\Q1\\simulink_model.png",
+    "sha256": "e48a088d6d82ba0cee7587566c1dabebc2e2c83dcac9d825d5c832328eec6718"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/a/v1_comparison.png",
+    "source": "HW3\\SimulationFigures\\Q2\\a\\v1_comparison.png",
+    "sha256": "6a93ec82325ede217fddf2d430def91172c96cd70c616268080295f15c7c4122"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/a/v2_comparison.png",
+    "source": "HW3\\SimulationFigures\\Q2\\a\\v2_comparison.png",
+    "sha256": "7a9a62e06237c9b6e6870bbd9e3b986bc1b5ad48222cc0c8003982a5d112e9e2"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/b/partI_step_noNoise.png",
+    "source": "HW3\\SimulationFigures\\Q2\\b\\partI_step_noNoise.png",
+    "sha256": "882a58cafe99636ca3b56fb965753aa983484e5f6d9b44b434e55491e596f577"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/b/partI_step_withNoise.png",
+    "source": "HW3\\SimulationFigures\\Q2\\b\\partI_step_withNoise.png",
+    "sha256": "b03b11554d577083f27052056806389a2886be98af510ea6bcc0b36cadcd5d09"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/b/partII_1hz_noNoise.png",
+    "source": "HW3\\SimulationFigures\\Q2\\b\\partII_1hz_noNoise.png",
+    "sha256": "2baa7fdb93e8cce293ee4fa6d8d1cc9a1589a953d02bda6c59955662e66e43fd"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/b/partII_1hz_withNoise.png",
+    "source": "HW3\\SimulationFigures\\Q2\\b\\partII_1hz_withNoise.png",
+    "sha256": "0fb65153e4a696087d2fdea0c1852c827c17961a4f9c35a9ce09c6225f36686d"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/b/partIII_10hz_noNoise.png",
+    "source": "HW3\\SimulationFigures\\Q2\\b\\partIII_10hz_noNoise.png",
+    "sha256": "b3ed2f03c08dc270b8fb5c7debd3586fa716b8a8fec988f2ac51cbb65cb6b779"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/b/partIII_10hz_withNoise.png",
+    "source": "HW3\\SimulationFigures\\Q2\\b\\partIII_10hz_withNoise.png",
+    "sha256": "da8e00a6630344ed62a98d9966cbf0f5b47da7557b3796f51ead9386aebfefed"
+  },
+  {
+    "path": "homework/hw-03/figures/Q2/b/partIV_refsignal_bc_sweep.png",
+    "source": "HW3\\SimulationFigures\\Q2\\b\\partIV_refsignal_bc_sweep.png",
+    "sha256": "b34454474ee4196327e29da4c7dfeb26eedfc4d94997bea08f2e44eb89b5d4c3"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/a/partA_error_vs_ke.png",
+    "source": "HW3\\SimulationFigures\\Q3\\a\\partA_error_vs_ke.png",
+    "sha256": "5de088facb9d9593a869ae1bec2a7b8cc024221abf4c767e86dfb69af67c4d8b"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/a/partA_step_responses.png",
+    "source": "HW3\\SimulationFigures\\Q3\\a\\partA_step_responses.png",
+    "sha256": "eaa0a7863664bb2af6885288dc001e40ef80f4622531bc95d0aa958df213cece"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/b/partB_error_vs_ke.png",
+    "source": "HW3\\SimulationFigures\\Q3\\b\\partB_error_vs_ke.png",
+    "sha256": "9e26aa1ba4fab0e873b5a9c80e8cd39fbfa149c79792ff68f53a5adcfdcee130"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/b/partB_step_responses.png",
+    "source": "HW3\\SimulationFigures\\Q3\\b\\partB_step_responses.png",
+    "sha256": "4d9775b67502040971fe34b1677b302afbf8b9e23ac4adea9f29481b47f18447"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/c/partC_chosen_points.png",
+    "source": "HW3\\SimulationFigures\\Q3\\c\\partC_chosen_points.png",
+    "sha256": "cdeb955aa3e8e9b15a64321a88cffbbe14fb9d0034ff9139ffca4a8be53227a8"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/c/partC_stability_region.png",
+    "source": "HW3\\SimulationFigures\\Q3\\c\\partC_stability_region.png",
+    "sha256": "8d1b887714253383cf91f51b27ba43d4263c05bc904443e8dad06ff419441ae3"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/c/partC_verification_steps.png",
+    "source": "HW3\\SimulationFigures\\Q3\\c\\partC_verification_steps.png",
+    "sha256": "9c17cb655ee1eeb4634f4d3ccb9669a5c1cb155f062d1e2c24fcc82203953414"
+  },
+  {
+    "path": "homework/hw-03/figures/Q3/e/simulation_result.png",
+    "source": "HW3\\SimulationFigures\\Q3\\e\\simulation_result.png",
+    "sha256": "524945bf0be34dac992ada7a0c949d1dd485261d9495626cd4414f778127fdb7"
+  },
+  {
+    "path": "homework/hw-03/source/ladrc_model.slx",
+    "source": "HW3\\SimulationFiles\\ladrc_model.slx",
+    "sha256": "3d481aaff278a0064575d840d0669ea533fbd9348abda939a2f72614ed384318"
+  },
+  {
+    "path": "homework/hw-03/source/ladrc_model_2nd.slx",
+    "source": "HW3\\SimulationFiles\\ladrc_model_2nd.slx",
+    "sha256": "30174cb59ea49a1c1410b3d253ce0498431ad7cda633c7400cf61fe1666fa86a"
+  },
+  {
+    "path": "homework/hw-03/source/ladrc_model_dt.slx",
+    "source": "HW3\\SimulationFiles\\ladrc_model_dt.slx",
+    "sha256": "5fc5da79e868335fdea6a6d86e19befffe70426048458a99fe92fee77df19a86"
+  },
+  {
+    "path": "homework/hw-03/source/Q1.m",
+    "source": "HW3\\SimulationFiles\\Q1.m",
+    "sha256": "4c2285ec9b5e24fe048cec4172659493039c134cef5185b9f482d4e19fe42553"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_a_1.m",
+    "source": "HW3\\SimulationFiles\\Q1_a_1.m",
+    "sha256": "d17a7dad0c269aaa9dd397e54c8b5ec8c1c02a70d50f6e4bb76cd24ad7d13b3f"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_a_2.m",
+    "source": "HW3\\SimulationFiles\\Q1_a_2.m",
+    "sha256": "54a971cb6cdc98b18c1bb933993f5f5f891e9dd1bb993f6f65d521dfac695527"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_a_3.m",
+    "source": "HW3\\SimulationFiles\\Q1_a_3.m",
+    "sha256": "71637b4d3031855bcfda689fae686503aedee09f76a833f9987e4f7dcab55331"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_a_4.m",
+    "source": "HW3\\SimulationFiles\\Q1_a_4.m",
+    "sha256": "3b401db1c8ec79f61fa7d69c40a7209dc1f964d7dbb3dab3b8bf8e0da5281449"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_a_5.m",
+    "source": "HW3\\SimulationFiles\\Q1_a_5.m",
+    "sha256": "eb3eb859826528184a1e9b5e6a409c8b9f14497357dc5f9e7562930441e107c0"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_a_6.m",
+    "source": "HW3\\SimulationFiles\\Q1_a_6.m",
+    "sha256": "f49c34d09d2a5016f2e61a5af7acc2a82c7ed6a8925d221ec02cb6c79217cf08"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_a_7.m",
+    "source": "HW3\\SimulationFiles\\Q1_a_7.m",
+    "sha256": "4cb98fa068d44a941b35884365be5d19df2026032c0baf26d7a9fce93cdc8841"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_b_1.m",
+    "source": "HW3\\SimulationFiles\\Q1_b_1.m",
+    "sha256": "29d94e721a295f4ae4e01eda9b2b08c258423049151ed8607466e2901dbc0b12"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_b_2.m",
+    "source": "HW3\\SimulationFiles\\Q1_b_2.m",
+    "sha256": "16147e0bca710a03a09c916c6776b0e601d885f84a21c58fa3b245005aaba26b"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_b_3.m",
+    "source": "HW3\\SimulationFiles\\Q1_b_3.m",
+    "sha256": "33b2194ab1f1b8be1acb9c1bdb45551b56f7dba0943b0571c72c14bba8309b13"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_b_4.m",
+    "source": "HW3\\SimulationFiles\\Q1_b_4.m",
+    "sha256": "ca2048d0bdbd4bc2fc07fa7699d455b558e803352fc97abb98217c5728a02f39"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_c_1.m",
+    "source": "HW3\\SimulationFiles\\Q1_c_1.m",
+    "sha256": "4688eeaa704e9c55e964d71fb1da4e5a37538e047e745c25538418a2c280733a"
+  },
+  {
+    "path": "homework/hw-03/source/Q1_c_2.m",
+    "source": "HW3\\SimulationFiles\\Q1_c_2.m",
+    "sha256": "04297097bb47a84a63d2f4579f8e09e21550f963b6655fb9c80ab34197a777ae"
+  },
+  {
+    "path": "homework/hw-03/source/Q2_a.m",
+    "source": "HW3\\SimulationFiles\\Q2_a.m",
+    "sha256": "b693d19ebb7ff09351773428987ef6d51938bd43d01beca922dfc2ec80538ee5"
+  },
+  {
+    "path": "homework/hw-03/source/Q2_b.m",
+    "source": "HW3\\SimulationFiles\\Q2_b.m",
+    "sha256": "675f365c8c19cb3e663942a86592c4591d0b709e4f26e08caf6eba0182efc88f"
+  },
+  {
+    "path": "homework/hw-03/source/Q2_b2.m",
+    "source": "HW3\\SimulationFiles\\Q2_b2.m",
+    "sha256": "6524853cff6249c9223fb446afe82ac2e58ff28643717527ef4f65af482acffe"
+  },
+  {
+    "path": "homework/hw-03/source/Q2_bbb.m",
+    "source": "HW3\\SimulationFiles\\Q2_bbb.m",
+    "sha256": "671c21424c268c700b31b45bdbaf0efdfddb5076ad1905f10623b55c6b029cce"
+  },
+  {
+    "path": "homework/hw-03/source/Q2_e.m",
+    "source": "HW3\\SimulationFiles\\Q2_e.m",
+    "sha256": "c3507fe5b951d552debdc0d9a90ee7fe5a7565172cfce2bc8af4658f0815efdc"
+  },
+  {
+    "path": "homework/hw-03/source/Q3_a.m",
+    "source": "HW3\\SimulationFiles\\Q3_a.m",
+    "sha256": "bfc9773bce528eb021a63403eeaf092b18410682d3f5ab69750e2924325cb43a"
+  },
+  {
+    "path": "homework/hw-03/source/Q3_b.m",
+    "source": "HW3\\SimulationFiles\\Q3_b.m",
+    "sha256": "14f07ae94859e35540514071509582057f864481fc9679c6cac2cf32360966e1"
+  },
+  {
+    "path": "homework/hw-03/source/figures/Q1/a/a_3/Fig6_cd.jpg",
+    "source": "HW3\\SimulationFiles\\SimulationFigures\\Q1\\a\\a_3\\Fig6_cd.jpg",
+    "sha256": "0dfcc644c8e485e9394e29eafc42f1a0937d87c10434d05664bcc35a4ce323d4"
+  }
+]

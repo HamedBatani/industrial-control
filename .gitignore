@@ -1,0 +1,7 @@
+slprj/
+codegen/
+*_ert_rtw/
+*.slxc
+*.asv
+*.mex*
+.DS_Store
