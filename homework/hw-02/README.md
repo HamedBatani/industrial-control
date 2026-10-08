@@ -11,7 +11,7 @@ I compared several routes to controller design, from response-based tuning to mo
 | 3 | Method-of-moments identification using simulated input/output | `source/Q3.m` |
 | 4 | Reaction-curve and ultimate-gain tuning methods | `source/Q4.m` |
 | 5 | PID synthesis by transfer-function matching | Report derivations |
-| 6 | Setpoint tracking and pole-placement designs | `source/Q6/Q6_f.m`–`Q6_i.m`, models/figures |
+| 6 | Setpoint tracking and pole-placement designs | `source/Q6/Q6_f.m`–`Q6_i.m`, figures and report |
 | 7 | Windup and anti-windup behavior | `source/Q7.m`, `source/Q7_d.slx`, figures |
 | 8 | System Identification Toolbox | `source/Q8.sid`, supplied `assignment-data/Ident.mat`, report |
 | 9 | Model order reduction | `source/ModelReducerSession.mat`, report |
